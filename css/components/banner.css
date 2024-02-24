@@ -1,0 +1,14 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("file:///Users/angelina/Library/CloudStorage/OneDrive-AssociationGroupeESSEC/ESSEC/Programming%20course/project2/images/background.jpeg");
+	background-size: cover;
+	background-position: center;
+  padding: 150px;
+}
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner h2 {
+  color: white;
+  font-size: 30px;
+}
